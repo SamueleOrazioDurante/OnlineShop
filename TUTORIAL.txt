@@ -1,0 +1,2 @@
+per entrare nella pagina admin entra nella pagina admin.php con l'attributo GET password settato a Ciao123!
+Es. localhost/8_OnlineShop/admin.php?password=Ciao123!
